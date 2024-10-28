@@ -22,4 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+node_modules/public-encrypt/test/test_rsa_privkey.pem
 ../../node_modules/public-encrypt/test/test_rsa_privkey.pem
